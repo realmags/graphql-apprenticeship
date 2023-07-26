@@ -1,0 +1,21 @@
+{
+ "compilerOptions": {
+  "rootDirs": ["src"],
+  "outDir": "dist",
+  "module": "CommonJS",
+  "esModuleInterop": true,
+  "types": ["node"],
+  "allowSyntheticDefaultImports": true,
+  "sourceMap": true,
+  "declaration": true,
+  "moduleResolution": "node",
+  "emitDecoratorMetadata": true,
+  "experimentalDecorators": true,
+  "importHelpers": true,
+  "target": "es2015",
+  "lib": ["es2017", "dom"],
+  "skipLibCheck": true,
+  "skipDefaultLibCheck": true,
+  "baseUrl": "."
+}
+}
